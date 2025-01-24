@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ## How to Use
 
-1. **Input a YouTube Link**: Paste the link of the video you want to analyze.
+1. **Input a YouTube Link**: Paste the link of the video you want to analyze and click Enter.
 2. **Select an Option**: Choose one of the following options:
    - **Summarize**: Get a concise summary of the video content.
    - **Make Notes**: Generate structured notes for deeper insights.
