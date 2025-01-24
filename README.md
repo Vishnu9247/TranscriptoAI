@@ -112,11 +112,6 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 Happy exploring with **TranscriptoAI**! 🚀
 
