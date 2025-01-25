@@ -102,7 +102,7 @@ Custom Prompt: "Explain the key points in detail."
 - **Libraries**:
   - `youtube-transcript-api` 🎥
   - Google's **Gemini LLM API** 🤖
-  - `python-dotenv` for environment variables 🌿
+  - `chromadb` Vector database 🛢
 
 ---
 
