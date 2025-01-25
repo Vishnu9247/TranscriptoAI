@@ -1,6 +1,3 @@
-Apologies for the confusion earlier! Here’s the complete README in one single markdown file. You can copy and paste the entire content:
-
-```markdown
 # **TranscriptoAI 🎥**
 
 **TranscriptoAI** is a powerful **Streamlit**-based application that extracts transcripts from YouTube videos and leverages Google's **Gemini LLM** to provide the following functionalities:
