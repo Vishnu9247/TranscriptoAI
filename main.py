@@ -45,8 +45,8 @@ with body:
             video_id = match.group()
         else:
             st.text("Please provide a valid link")
-          
-        transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'], proxies={"https": "http://localhost:8080"})
+        
+        transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'])
         transcript = TextFormatter().format_transcript(transcript)
 
     
