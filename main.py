@@ -32,8 +32,8 @@ body = st.container()
 foot = st.container()
 
 with header:
-    st.title("Youtube Video Summary")
-    st.text("Please paste the youtube link you want to summarize, and we will provide you with the summary")
+    st.title("TranscriptoAI")
+    st.text("Please paste the youtube link you want to summarize and click enter, we will provide you with the summary")
 
 i = 0
 with body:
