@@ -46,7 +46,7 @@ with body:
         else:
             st.text("Please provide a valid link")
         
-        transcript = YouTubeTranscriptApi.get_transcript(video_id)
+        transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'])
         transcript = TextFormatter().format_transcript(transcript)
 
     
